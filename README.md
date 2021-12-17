@@ -11,4 +11,4 @@ Tasks include:
 * Robot will avoid going out of the ring using its reflectance sensors
 
 Example of products
-[Zumo Maze](https://www.youtube.com/watch?v=UWkvAnueUYM&ab_channel=stefanb.)
+[Zumo Wrestling](https://www.youtube.com/watch?v=GV9WpuOOON8&t=1s&ab_channel=ErichStyger)
