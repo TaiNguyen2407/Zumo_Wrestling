@@ -87,7 +87,7 @@ void zmain(void){
         int d = Ultra_GetDistance();
         reflectance_digital(&dig);
         motor_forward(100,0);
-        if (d < 10){
+        if (d < 8){
             tankturn();
             get_obstacle_time();    
         }
